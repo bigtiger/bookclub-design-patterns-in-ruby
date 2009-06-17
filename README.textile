@@ -1,0 +1,22 @@
+h1. Bookclub => Design Patterns in Ruby
+
+Notes and examples from Hashrocket Bookclub reading of Design Patterns in Ruby
+
+* *Chapter 3*: Varying the Algorithm with the Template Method
+* *Chapter 4*: Replacing the Algorithm with the Strategy
+* *Chapter 5*: Keeping Up with the Times with the Observer
+* *Chapter 6*: Assembling the Whole from the Parts 
+* *Chapter 7*: Reaching into a Collection with the Iterator
+* *Chapter 8*: Getting Things Done with Commands
+* *Chapter 9*: Filling in the Gaps with the Adapter
+* *Chapter 10*: Getting in Front of Your Object with a Proxy
+* *Chapter 11*: Improving Your Objects with a Decorator
+* *Chapter 12*: Making Sure There Is Only One with the Singleton
+* *Chapter 13*: Picking the Right Class with a Factory
+* *Chapter 14*: Easier Object Construction with the Builder
+* *Chapter 15*: Assembling Your System with the Interpreter
+* *Chapter 16*: Opening Up Your System with 
+* *Chapter 17*: Creating Custom Objects with Meta-programming
+* *Chapter 18*: Convention Over Configuration
+* *Chapter 19*: Conclusion
+
