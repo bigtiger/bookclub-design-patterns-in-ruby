@@ -1,3 +1,7 @@
+# An example by
+# Stephen Caudill
+# http://github.com/voxdolo
+
 class Report
   attr_accessor :preamble, :before, :after, :prologue
   def initialize
